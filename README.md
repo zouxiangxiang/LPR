@@ -13,6 +13,7 @@ LPR是一个集成多个开源项目面向嵌入式车牌识别库，检测和�
 - 车牌识别集成了HyperLPR项目端对端车牌识别
 # 构建及安装
 1. **下载源代码**
+
         https://github.com/zouxiangxiang/LPR.git
 
 2.  **环境准备**    
