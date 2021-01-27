@@ -15,10 +15,23 @@
         https://github.com/zouxiangxiang/LPR.git
 
 2.  **环境准备**    
+  - 安装opencv3.0及以上
+  - 安装cmake3.0以上版本，支持c++11的c++编译器
+  - 安装protobuf
   - 安装ncnn
 
+3. **Linux安装编译** 
+       
+        mkdir build
+        cd build
+        cmake ..
+        make install
+
+# 可识别和待支持的车牌的类型
+  
+- [ ] Mercury
+ 
+ 
   
     
-        
-
    
