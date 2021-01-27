@@ -32,4 +32,11 @@ LPR是一个集成多个开源项目面向嵌入式车牌识别库，检测和�
 
 # 可识别和待支持的车牌的类型
   
-- [ ] Mercury
+- [x] 单行蓝牌
+- [x] 单行黄牌
+- [x] 新能源车牌
+- [x] 白色警用车牌
+- [x] 使馆/港澳车牌
+- [x] 教练车牌
+# 参考
+[https://github.com/szad670401/HyperLPR#](https://github.com/szad670401/HyperLPR# "HyperLPR")
