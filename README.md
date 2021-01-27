@@ -40,5 +40,7 @@ LPR是一个集成多个开源项目面向嵌入式车牌识别库，检测和�
 - [x] 教练车牌
 # 参考
 [https://github.com/szad670401/HyperLPR](https://github.com/szad670401/HyperLPR "HyperLPR")
+
 [https://github.com/xiangweizeng/mobile-lpr](https://github.com/xiangweizeng/mobile-lpr "mobile-lpr")
+
 [https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB "Ultra-Light-Fast-Generic-Face-Detector-1MB")
